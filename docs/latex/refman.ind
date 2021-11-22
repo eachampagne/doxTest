@@ -1,0 +1,14 @@
+\begin{theindex}
+
+  \item {addE1}
+    \subitem {array.c}, \hyperpage{7}
+  \item {array.c}, \hyperpage{7}
+    \subitem {addE1}, \hyperpage{7}
+    \subitem {main}, \hyperpage{7}
+
+  \indexspace
+
+  \item {main}
+    \subitem {array.c}, \hyperpage{7}
+
+\end{theindex}
